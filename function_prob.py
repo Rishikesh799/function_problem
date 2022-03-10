@@ -1,5 +1,5 @@
 """--------------------------FUNCTION EXAMPLE-----------------------------------------------
-#1.write function that inputs a number and prints the multiplication table of that number.
+#1.write function that inputs a number and prints the multiplication table of that num.
 def table(x):
     for i in range(1,11):
         print(x,"*",i,"=",x*i)
